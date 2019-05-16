@@ -1,0 +1,9 @@
+.home_page_photo{
+    width: 300px;
+    height: 250px !important;
+
+}
+.pager .active a{
+    background-color: rgba(184, 184, 184, 0.541);
+    color: white;
+}
